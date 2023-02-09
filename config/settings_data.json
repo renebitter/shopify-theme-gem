@@ -1,5 +1,6 @@
 {
   "current": {
+    "logo": "shopify:\/\/shop_images\/logo-neoric_360x_3cf225ba-29cf-4733-950b-6d62d2597d72.png",
     "logo_width": 90,
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#121212",
@@ -136,7 +137,10 @@
           "color_scheme": "background-1"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
