@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "HEUTE VERSANDKOSTENFREI",
             "text_alignment": "center",
             "color_scheme": "background-1",
             "link": ""
@@ -17,7 +17,9 @@
       },
       "block_order": [
         "announcement-bar-0"
-      ]
+      ],
+      "settings": {
+      }
     },
     "header": {
       "type": "header",
