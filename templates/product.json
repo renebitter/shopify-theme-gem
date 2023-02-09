@@ -39,11 +39,6 @@
           "settings": {
             "show_dynamic_checkout": false
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -52,8 +47,7 @@
         "caption",
         "price",
         "variant_picker",
-        "buy_buttons",
-        "description"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
